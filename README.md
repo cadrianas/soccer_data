@@ -37,4 +37,5 @@ To forecast performance tiers, five distinct models were trained, each implement
 * **Evaluation:** Each model run outputs a performance dashboard, specifically tracking Precision, Recall, and F1-scores to ensure that high accuracy is not solely due to majority-class predictions.
 
 ---
-*Note: Grammarly was used to refine the English grammar and phrasing of this documentation.*
+*Note: Grammarly was used to refine the English grammar and phrasing of all documentations.*
+*scr files are a work in progress*
